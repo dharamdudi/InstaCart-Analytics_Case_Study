@@ -27,13 +27,15 @@ Find a way to understand how Instacart's business changed over time…without us
 
 ## Overview
 
-➡️ Downloaded the original dataset from [instacart kaggle competition](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data). Used PostgreSQL with TablePlus to prepare and analyze the data.
+🔹 Downloaded the original dataset from [instacart kaggle competition](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data). Used PostgreSQL with TablePlus to prepare and analyze the data.
 
-➡️ Performed comparative analysis of key order metrics, cart composition patterns, reorder trends, and top performing items. Investigated seasonal influences on fresh produce reorders.
+🔹 Performed comparative analysis of key order metrics, cart composition patterns, reorder trends, and top performing items. Investigated seasonal influences on fresh produce reorders.
 
-➡️ Formatted the output of the SQL queries in MS-Excel. Also used Excel to build some visualizations to support the finding.
+🔹 Formatted the output of the SQL queries in MS-Excel. Also used Excel to build some visualizations to support the finding.
 
-➡️ Finally compiled all the outputs and charts in Figma to present the insights uncovered from the analytics case study.
+🔹 Finally compiled all the outputs and charts in Figma to present the insights uncovered from the analytics case study.
+
+🔗 Link to the SQL Queries Used in the Analysis: <a href="https://github.com/dharamdudi/Instacart-Analytics_Case_Study/blob/main/assets/queries/data_preparation_n_analytics.sql" target="_blank">Queries.sql </a>, or <a href="https://drive.google.com/file/d/1_VmS5oqKBRhMLNhg1JIOlo8WDDfbB5z0/view?usp=sharing" target="_blank">PDF File</a>
 
 <p align="center">
   <img src="https://github.com/dharamdudi/Instacart-Analytics_Case_Study/blob/main/assets/images/Case%20Study%20Overview.jpg" target="_blank">
