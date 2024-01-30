@@ -33,7 +33,7 @@ Find a way to understand how Instacart's business changed over time…without us
 
 🔹 Formatted the output of the SQL queries in MS-Excel. Also used Excel to build some visualizations to support the finding.
 
-🔹 Finally compiled all the outputs and charts in Figma to present the insights uncovered from the analytics case study.
+🔹 Finally compiled all the outputs and charts in Figma to present the insights uncovered from the case study.
 
 🔗 Link to the SQL Queries Used in the Analysis: <a href="https://github.com/dharamdudi/Instacart-Analytics_Case_Study/blob/main/assets/queries/data_preparation_n_analytics.sql" target="_blank">Queries.sql </a>, or <a href="https://drive.google.com/file/d/1_VmS5oqKBRhMLNhg1JIOlo8WDDfbB5z0/view?usp=sharing" target="_blank">PDF File</a>
 
