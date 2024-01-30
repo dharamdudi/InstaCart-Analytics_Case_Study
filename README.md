@@ -50,3 +50,5 @@ Find a way to understand how Instacart's business changed over time…without us
 🔍 If not already implemented, marketing should consider promoting bundle deals on produce to incentivize new buyers, who may then become repeat customers for those products.
 
 🔍 Additionally, team members working with suppliers and grocers should ensure the consistent availability of popular produce items, including Bananas, Strawberries, Avocado, and Broccoli, in order to maintain high reorder rates.
+
+Link to the LinkedIn post sharing the completion of the case study: [LinkedIn](https://www.linkedin.com/posts/dharamdudi_instacart-business-case-study-activity-7158155904578641920-B5YA?utm_source=share&utm_medium=member_desktop)
