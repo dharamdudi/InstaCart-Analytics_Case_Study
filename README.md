@@ -1,4 +1,4 @@
-# Instacart - Analytics Case Study - Products & Orders
+# Instacart - Business Case Study - Products & Orders
 
 **Instacart** is a grocery delivery and pickup service. Users can select items from local grocery stores through the Instacart app or website,
 and then either have them delivered to their doorstep by a personal shopper or prepared for pickup at the store.
