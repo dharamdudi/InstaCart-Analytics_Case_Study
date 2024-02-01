@@ -5,7 +5,7 @@ and then either have them delivered to their doorstep by a personal shopper or p
 
 🌟 **Task**: find a way to understand how Instacart's business changed over time…without using explicit dates!
 
-🔗 Link to the Case Study: <a href="https://drive.google.com/file/d/1k7uaNwbtc0VQybgvJrTImYpznbLQ-iBk/view?usp=drive_link" target="_blank">PDF GDrive </a>
+[![](https://img.shields.io/badge/View%20Case%20Study%20Findings/Solution%20(PDF%20File)-52B53E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1k7uaNwbtc0VQybgvJrTImYpznbLQ-iBk/view?usp=drive_link)
 
 🔗 Link to the Instacart SQL Case Study: <a href="https://datalemur.com/sql-tutorial/instacart-sql-data-analytics-case-study" target="_blank">DataLemur </a>
 
@@ -35,7 +35,9 @@ Find a way to understand how Instacart's business changed over time…without us
 
 🔹 Finally compiled all the outputs and charts in Figma to present the insights uncovered from the case study.
 
-🔗 Link to the SQL Queries Used in the Analysis: <a href="https://github.com/dharamdudi/Instacart-Analytics_Case_Study/blob/main/assets/queries/data_preparation_n_analytics.sql" target="_blank">Queries.sql </a>, or <a href="https://drive.google.com/file/d/1_VmS5oqKBRhMLNhg1JIOlo8WDDfbB5z0/view?usp=sharing" target="_blank">PDF File</a>
+🔗 Link to the SQL Queries Used in the Analysis: 
+
+[![](https://img.shields.io/badge/Queries%20Used%20(.SQL%20File)-52B53E?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/dharamdudi/Instacart-Analytics_Case_Study/blob/main/assets/queries/data_preparation_n_analytics.sql) &nbsp;&nbsp;&nbsp;   [![](https://img.shields.io/badge/Queries%20Used%20(PDF%20File)-52B53E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_VmS5oqKBRhMLNhg1JIOlo8WDDfbB5z0/view?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/dharamdudi/Instacart-Analytics_Case_Study/blob/main/assets/images/Case%20Study%20Overview.jpg" target="_blank">
