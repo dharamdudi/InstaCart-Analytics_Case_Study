@@ -7,7 +7,7 @@ and then either have them delivered to their doorstep by a personal shopper or p
 
 [![](https://img.shields.io/badge/View%20Case%20Study%20Findings/Solution%20(PDF%20File)-52B53E?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1k7uaNwbtc0VQybgvJrTImYpznbLQ-iBk/view?usp=drive_link)
 
-🔗 Link to the Instacart SQL Case Study: <a href="https://datalemur.com/sql-tutorial/instacart-sql-data-analytics-case-study" target="_blank">DataLemur </a>
+🔗 Link to the Instacart SQL Case Study Source: <a href="https://datalemur.com/sql-tutorial/instacart-sql-data-analytics-case-study" target="_blank">DataLemur </a>
 
 <p align="center">
   <img src="https://github.com/dharamdudi/InstaCart-Analytics_Case_Study/blob/main/assets/images/home_page.jpg" target="_blank">
